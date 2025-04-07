@@ -1,5 +1,10 @@
 # 🎬 Movie Recommendation System 🍿
 
+[![Python Version](https://img.shields.io/badge/Python-3.12%2B-blue.svg)](https://www.python.org/downloads/)
+[![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json)](https://github.com/astral-sh/uv)
+[![Ruff](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/ruff/main/assets/badge/v2.json)](https://github.com/astral-sh/ruff)
+[![Powered by: Streamlit](https://img.shields.io/badge/Powered%20by-Streamlit-red.svg)](https://streamlit.io/)
+
 A simple Streamlit app that recommends movies based on your initial selections! Uses content-based filtering.
 
 Dataset extracted from [Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
