@@ -1,0 +1,19 @@
+[project]
+name = "recommendation-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.3",
+    "rich>=14.0.0",
+    "scikit-learn>=1.6.1",
+    "streamlit>=1.44.1",
+]
+
+[project.scripts]
+recommendation-system = "recommendation_system:__main__"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
