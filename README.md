@@ -9,6 +9,8 @@ A simple Streamlit app that recommends movies based on your initial selections! 
 
 Dataset extracted from [Kaggle](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset)
 
+![Screenshot](docs/screenshot.png)
+
 ## ✨ Features
 
 *   Select up to 5 movies you like via search.
